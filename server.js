@@ -1,3 +1,4 @@
+//mongodb+srv://admin1:admin1@atesh.crc1i.mongodb.net/?retryWrites=true&w=majority
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
